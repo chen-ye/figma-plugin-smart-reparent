@@ -1,0 +1,9 @@
+{
+  "name": "Smart Reparent",
+  "id": "1213265491311339619",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"]
+}
